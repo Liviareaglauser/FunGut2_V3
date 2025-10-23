@@ -1,0 +1,8 @@
+Login:
+ssh lgruetter@euler.ethz.ch
+
+Activate Conda
+source ~/miniconda3/etc/profile.d/conda.sh
+
+Start Qiime2
+conda activate qiime2-2024.10

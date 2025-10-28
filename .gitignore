@@ -1,6 +1,8 @@
 # Ignore Qiime2 artifacts and visualizations
 *.qza
 *.qzv
+final/fungut_data/fungut_metadata.tsv
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

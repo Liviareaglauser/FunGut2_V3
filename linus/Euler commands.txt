@@ -6,3 +6,9 @@ source ~/miniconda3/etc/profile.d/conda.sh
 
 Start Qiime2
 conda activate qiime2-2024.10
+
+Upload Files
+scp /path/to/your/local/files/*.qza  lgruetter@euler.ethz.ch:/cluster/scratch/lgruetter/fungut/
+
+Check files
+ls /cluster/scratch/$USER/fungut

@@ -1,0 +1,27 @@
+**** Taxonomy
+Use the 99% classifier (https://forum.qiime2.org/t/fungal-its-analysis-with-qiime2-current-recommended-workflow/30809/6)
+
+
+**** Beta diversity:
+
+k-mer based ITS diversity analysis:
+
+Instead of doing phylogeny, we should perform kmer based alpha and beta diversity
+k-mer length selection is imortant and can influence the results: a first range would be 12-16bp
+
+
+FunGut Process
+For beta analysis we should do both Jaccard and Bray Curtis analysis based on kmers
+Then we need to do dimensionality reduction and ordination (see slide 16 of w7 slides)
+Then do quality and quanitiy comparison 
+    -> Peramnova: either centroids (center of spider web of sample points (shortest total distances)) are statistically significantly distant or not
+                   Look at q value not p value (because it is a pairwise comparison(?))
+                   Secondary test after adonis permanove is betadisper (?) in qiime2 or bdisper, measures community disperse -> We want to know if it is actually due to the disperson of the samples
+
+When you run different effect size ?? something about you can pull more information out of it when you use different effect sizes
+
+
+Questions:
+- Should we kmerize our ITS features for beta diversity? If so is it just a simple command?
+- How can we do quality control? 
+- How do we find "optimal" kmer length? What metrics is useful for us? We want higher effect size 

@@ -1,0 +1,151 @@
+fid	ID	country_sample	state_sample	latitude_sample	longitude_sample	sex_sample	age_years_sample	height_cm_sample	weight_kg_sample	bmi_sample	diet_type_sample	ibd_sample	gluten_sample	BMI_category	habitat_density1	density_percent	urban/rural/peri
+"1"	ERR5327198	USA	TN	36.1	-86.8	female	67	152	41	17.75	Omnivore	I do not have this condition	No	Underweight	"167906"	"42"	peri-urban
+"2"	ERR5327199	USA	DC	38.9	-77.1	male	55	182	79	23.73	Omnivore	I do not have this condition	"I was diagnosed with gluten allergy (anti-gluten IgG), but not celiac disease"	Normal	"149537"	"37"	peri-urban
+"3"	ERR5327266	USA	VA	38.9	-77.1	female	28	175	61	19.94	Omnivore	I do not have this condition	I do not eat gluten because it makes me feel bad	Normal	"149537"	"37"	peri-urban
+"4"	ERR5327282	United Kingdom		51.6	-0.2	female	26	166	60	21.77	Omnivore	I do not have this condition	No	Normal	"269388"	"67"	urban
+"5"	ERR5327284	United Kingdom		51.5	-0.2	female	25	173	59	20.01	Vegetarian but eat seafood	I do not have this condition	No	Normal	"380431"	"95"	urban
+"6"	ERR5327285	Sweden	Stockholms län	59.3	18	male	27	180	62	19.14	Omnivore	I do not have this condition	No	Normal	"240776"	"60"	urban
+"7"	ERR5327287	United Kingdom		51.5	-0.3	male	35	187	84	24.02	Omnivore	I do not have this condition	No	Normal	"263838"	"66"	urban
+"8"	ERR5327288	United Kingdom		51.5	-0.3	female	31	162	63	24.01	Omnivore	I do not have this condition	No	Normal	"263838"	"66"	urban
+"9"	ERR5327289	United Kingdom		51.9	1.3	male	53	175	83	27.1	Omnivore	I do not have this condition	No	Overweight	"0"	"0"	rural
+"10"	ERR5327300	USA	LA	30	-90.1	male	48	180	88	27.16	Omnivore	I do not have this condition	No	Overweight	"117233"	"29"	peri-urban
+"11"	ERR5327303	USA	LA	30	-90.1	male	48	180	88	27.16	Omnivore	I do not have this condition	No	Overweight	"117233"	"29"	peri-urban
+"12"	ERR5327305	USA	FL	28	-82.7	female	7	114	23	18.05	Omnivore	I do not have this condition	"I was diagnosed with gluten allergy (anti-gluten IgG), but not celiac disease"	Underweight	"313754"	"78"	urban
+"13"	ERR5327308	Australia	NSW	-33.7	151.2	male	36	186	85	24.57	Omnivore	Self-diagnosed	No	Normal	"1981"	"0"	rural
+"14"	ERR5327311	Australia	TAS	-43	147.3	male	74	173	80	26.73	Omnivore	I do not have this condition	I do not eat gluten because it makes me feel bad	Overweight	"71533"	"18"	rural
+"15"	ERR5327313	Australia	QLD	-27.6	152.8	male	34	187	104	29.74	Omnivore	I do not have this condition	I do not eat gluten because it makes me feel bad	Overweight	"140638"	"35"	peri-urban
+"16"	ERR5327314	Australia	QLD	-26.7	153	male	34	180	65	20.06	Vegan	I do not have this condition	No	Normal	"27749"	"7"	rural
+"17"	ERR5327316	Australia	VIC	-38	145.1	male	41	183	96	28.67	Omnivore	I do not have this condition	No	Overweight	"311604"	"78"	urban
+"18"	ERR5327317	Australia	VIC	-37.8	147.1	female	32	167	65	23.31	Vegetarian	I do not have this condition	No	Normal	"5482"	"1"	rural
+"19"	ERR5327318	Australia	VIC	-37.8	145	male	62	183	63	18.81	Vegetarian but eat seafood	I do not have this condition	I do not eat gluten because it makes me feel bad	Normal	"161588"	"40"	peri-urban
+"20"	ERR5327322	Australia	ACT	-35.3	149.1	male	68	183	70	20.9	Omnivore	I do not have this condition	No	Normal	"75479"	"19"	rural
+"21"	ERR5327323	Australia	ACT	-35.3	149.1	female	74	164	57	21.19	Omnivore	I do not have this condition	No	Normal	"75479"	"19"	rural
+"22"	ERR5327325	Australia	VIC	-37.8	144.8	male	46	173	95	31.74	Omnivore	I do not have this condition	No	Adipose 1	"231841"	"58"	urban
+"23"	ERR5327326	Australia	ACT	-35.2	149.1	female	54	161	62	23.92	Omnivore	I do not have this condition	No	Normal	"99070"	"25"	peri-urban
+"24"	ERR5327327	Australia	ACT	-35.2	149.1	male	55	178	72	22.72	Omnivore	I do not have this condition	I was diagnosed with celiac disease	Normal	"99070"	"25"	peri-urban
+"25"	ERR5327329	Australia	NSW	-33.8	151.2	male	56	170	75	25.95	Omnivore	I do not have this condition	No	Overweight	"311647"	"78"	urban
+"26"	ERR5327332	Australia	VIC	-37.8	145	female	41	161	69	26.62	Omnivore	I do not have this condition	No	Overweight	"161588"	"40"	peri-urban
+"27"	ERR5327335	Australia	VIC	-37.8	145	male	55	183	67	20.01	Omnivore	I do not have this condition	No	Normal	"161588"	"40"	peri-urban
+"28"	ERR5327338	Australia	VIC	-37.8	147.1	male	2				Omnivore	I do not have this condition	No		"5482"	"1"	rural
+"29"	ERR5327340	Australia	QLD	-24.6	150.3	male	60	175	74	24.16	Omnivore	I do not have this condition	No	Normal	"2067"	"1"	rural
+"30"	ERR5327343	Australia	QLD	-27.5	152.9	male	37	186	72	20.81	Omnivore	I do not have this condition	No	Normal	"52489"	"13"	rural
+"31"	ERR5327344	Australia	QLD	-27.6	152.9	female	46	152	66	28.42	Omnivore	I do not have this condition	No	Overweight	"17477"	"4"	rural
+"32"	ERR5327346	Australia	QLD	-26.4	153.1	male	51	185	78	22.79	Omnivore	I do not have this condition	No	Normal	"85587"	"21"	peri-urban
+"33"	ERR5327348	Australia	NSW	-33.7	151	female	39	163	64	24.09	Omnivore	"Diagnosed by a medical professional (doctor, physician assistant)"	No	Normal	"133380"	"33"	peri-urban
+"34"	ERR5327349	Australia	NSW	-33.7	151	male	2		9		Omnivore	I do not have this condition	No		"133380"	"33"	peri-urban
+"35"	ERR5327351	Australia	VIC	-38.1	145.5	female	10	144	34	16.4	Omnivore	I do not have this condition	No	Underweight	"129043"	"32"	peri-urban
+"36"	ERR5327352	Australia	VIC	-38.1	145.5	female	8	132	25	14.35	Omnivore	I do not have this condition	No	Underweight	"129043"	"32"	peri-urban
+"37"	ERR5327353	Australia	VIC	-38.1	145.5	female	3	94	13	14.71	Vegan	I do not have this condition	No	Underweight	"129043"	"32"	peri-urban
+"38"	ERR5327354	Australia	NSW	-33.7	151	male	4	98	14	14.58	Omnivore	I do not have this condition	No	Underweight	"133380"	"33"	peri-urban
+"39"	ERR5327355	Australia	NSW	-33.7	151	male	43	180	74	22.84	Omnivore	I do not have this condition	No	Normal	"133380"	"33"	peri-urban
+"40"	ERR5327356	Australia	NT	-12.5	131	male	52	194	115	30.56	Omnivore	I do not have this condition	No	Adipose 1	"212571"	"53"	urban
+"41"	ERR5327360	Australia	QLD	-28.2	150.3	female	31	168	80	28.34	Omnivore	I do not have this condition	No	Overweight	"241"	"0"	rural
+"42"	ERR5327361	Australia	QLD	-28.2	150.3	female		66	7	16.07				Underweight	"241"	"0"	rural
+"43"	ERR5327362	Australia	QLD	-27.5	153.1	female	25	165	62	22.77	Omnivore but do not eat red meat	I do not have this condition	No	Normal	"256592"	"64"	urban
+"44"	ERR5327363	Australia	QLD	-27.5	153.1	female	54	165	68	24.98	Omnivore	I do not have this condition	No	Overweight	"256592"	"64"	urban
+"45"	ERR5327364	Australia	QLD	-27.5	153.1	male	54	180	102	31.48	Omnivore	I do not have this condition	No	Adipose 1	"256592"	"64"	urban
+"46"	ERR5327367	Australia	NT	-12.4	130.9	female	47	172	59	19.94	Vegetarian	I do not have this condition	No	Normal	"178591"	"45"	peri-urban
+"47"	ERR5327370	Australia	VIC	-37.9	145	male	16	178	58	18.31				Underweight	"358210"	"89"	urban
+"48"	ERR5327379	USA	NJ	39.3	-74.8	male	54	177	108	34.44	Omnivore	I do not have this condition	No	Adipose 1	"15241"	"4"	rural
+"49"	ERR5327387	USA	MN	44.9	-93.2	male	38	180	97	29.99	Omnivore	I do not have this condition	I do not eat gluten because it makes me feel bad	Adipose 1	"205953"	"51"	urban
+"50"	ERR5327388	USA	MN	44.9	-93.2	female	38	175	61	19.94	Vegetarian but eat seafood	I do not have this condition	I do not eat gluten because it makes me feel bad	Normal	"205953"	"51"	urban
+"51"	ERR5327394	USA	FL	28.5	-81.4	male	65	172	81	27.37	Vegetarian but eat seafood	I do not have this condition	No	Overweight	"254891"	"64"	urban
+"52"	ERR5327395	USA	CO	40	-105.2	male	36	180	63	19.6	Omnivore	I do not have this condition	I do not eat gluten because it makes me feel bad	Normal	"54682"	"14"	rural
+"53"	ERR5327396	USA	CO	40	-105.2	male	36	180	63	19.6	Omnivore	I do not have this condition	I do not eat gluten because it makes me feel bad	Normal	"54682"	"14"	rural
+"54"	ERR5327401	USA	TX	30.4	-97.8	male	13	147	49	22.99	Omnivore	I do not have this condition	I do not eat gluten because it makes me feel bad	Normal	"3703"	"1"	rural
+"55"	ERR5327402	Australia	QLD	-27.5	153	male	37	174	85	28.08	Omnivore	I do not have this condition	No	Overweight	"301212"	"75"	urban
+"56"	ERR5327404	Australia	VIC	-38.2	144.3	male	54	180	55	16.98	Omnivore	"Diagnosed by a medical professional (doctor, physician assistant)"	I do not eat gluten because it makes me feel bad	Underweight	"199511"	"50"	peri-urban
+"57"	ERR5327405	Australia	VIC	-38.2	144.3	female	49	169	52	18.21	Omnivore	I do not have this condition	I do not eat gluten because it makes me feel bad	Underweight	"199511"	"50"	peri-urban
+"58"	ERR5327406	Australia	VIC	-34.6	141.5	male	56	186	110	31.8	Omnivore	I do not have this condition	No	Adipose 1	"0"	"0"	rural
+"59"	ERR5327407	Australia	VIC	-36.6	145.2	female	63	173	69	23.05	Omnivore	I do not have this condition	No	Normal	"1091"	"0"	rural
+"60"	ERR5327408	Australia	VIC	-36.6	145.2	male	64	181	84	25.64	Omnivore	I do not have this condition	No	Overweight	"1091"	"0"	rural
+"61"	ERR5327409	Australia	NSW	-33.9	151.2	female	43	160	58	22.66	Omnivore	I do not have this condition	I do not eat gluten because it makes me feel bad	Normal	"338261"	"84"	urban
+"62"	ERR5327410	Australia	NSW	-33.9	151.2	male	45	180	75	23.15	Omnivore	"Diagnosed by a medical professional (doctor, physician assistant)"	I do not eat gluten because it makes me feel bad	Normal	"338261"	"84"	urban
+"63"	ERR5327412	New Zealand	Wellington	-41.3	174.7	female	53	175	73	23.84	Vegan	I do not have this condition	No	Normal	"299"	"0"	rural
+"64"	ERR5327414	USA	MT	45.7	-110.9	female	55	164	47	17.47	Omnivore	I do not have this condition	No	Underweight	"9159"	"2"	rural
+"65"	ERR5327415	USA	MT	45.7	-110.9	male	60	180	49	15.34	Omnivore	I do not have this condition	No	Underweight	"9159"	"2"	rural
+"66"	ERR5327416	USA	CA	38.5	-121.8	female	54	165	72	26.63	Omnivore	I do not have this condition	I do not eat gluten because it makes me feel bad	Overweight	"0"	"0"	rural
+"67"	ERR5327418	USA	CA	38.5	-121.8	female	29	162	58	22.31	Omnivore	I do not have this condition	No	Normal	"0"	"0"	rural
+"68"	ERR5327419	USA	OR	42.9	-123.4	male	73	187	89	25.29	Omnivore	I do not have this condition	No	Overweight	"0"	"0"	rural
+"69"	ERR5327421	USA	WA	47.6	-122.3	female	25	172	68	22.81	Omnivore	I do not have this condition	No	Normal	"285224"	"71"	urban
+"70"	ERR5327426	USA	CO	39.7	-106.8	female	13	162	61	23.17	Omnivore	I do not have this condition	No	Normal	"729"	"0"	rural
+"71"	ERR5327427	USA	CA	33.9	-118.4	female	51	162	54	20.6	Omnivore	I do not have this condition	No	Normal	"367755"	"92"	urban
+"72"	ERR5327428	USA	CT	41.3	-72.8	male	74	185	93	27.18	Omnivore	I do not have this condition	No	Overweight	"52617"	"13"	rural
+"73"	ERR5327431	USA	IL	42.1	-87.7	female	59	167	54	19.37	Vegan	I do not have this condition	No	Normal	"0"	"0"	rural
+"74"	ERR5327432	USA	MT	45.7	-110.9	male	25	175	68	22.15	Omnivore		No	Normal	"9159"	"2"	rural
+"75"	ERR5327433	USA	CA	37.9	-122.3	female	82	165	58	21.3	Omnivore	I do not have this condition	No	Normal	"354637"	"89"	urban
+"76"	ERR5327434	USA	CO	39.7	-105	male	53	172	58	19.77	Vegan	I do not have this condition	No	Normal	"274923"	"69"	urban
+"77"	ERR5327435	USA	CO	39	-105	male		182	90	27.12	Omnivore	I do not have this condition	No	Overweight	"4959"	"1"	rural
+"78"	ERR5327439	USA	CO	39.4	-104.9	male	2	76	10	18.75	Omnivore	I do not have this condition	No	Normal	"126134"	"31"	peri-urban
+"79"	ERR5327442	New Zealand	Otago	-45.9	170.5	male	78	177	77	24.39	Vegetarian but eat seafood	I do not have this condition	No	Normal	"400475"	"100"	urban
+"80"	ERR5327443					male	45	196	108	28.11	Omnivore but do not eat red meat	I do not have this condition	No	Overweight		"0"	rural
+"81"	ERR5327444	New Zealand	Otago	-45.8	170.5	male	56	170	72	24.86	Omnivore	I do not have this condition	No	Normal	"0"	"0"	rural
+"82"	ERR5327445	USA	VA	37	-76.5	female	63	160	56	21.97		Self-diagnosed	No	Normal	"0"	"0"	rural
+"83"	ERR5327447	USA	OR	44.1	-123	female	52	119	63	44.88	Omnivore but do not eat red meat	I do not have this condition	No		"0"	"0"	rural
+"84"	ERR5327450	United Kingdom		50.4	-3.7	female	67	162	54	20.77	Vegetarian but eat seafood	I do not have this condition	No	Normal	"6650"	"2"	rural
+"85"	ERR5327452	United Kingdom		51.6	-0.3	female	56	167	60	21.35	Omnivore	I do not have this condition	No	Normal	"331692"	"83"	urban
+"86"	ERR5327456	United Kingdom		50.9	-1.4	female	28	160	57	22.27	Omnivore	I do not have this condition	No	Normal	"331702"	"83"	urban
+"87"	ERR5327464	United Kingdom		51.7	-0.4	male	60	170	66	23.02	Omnivore	I do not have this condition	No	Normal	"175478"	"44"	peri-urban
+"88"	ERR5327465	United Kingdom		51.4	-0.6	female	63	170	79	27.28		I do not have this condition	No	Overweight	"50255"	"13"	rural
+"89"	ERR5327470	United Kingdom		50.5	-3.8	female	68	165	62	22.96	Omnivore	I do not have this condition	No	Normal	"3583"	"1"	rural
+"90"	ERR5327471	United Kingdom		50.5	-3.8	male	77	177	71	22.67	Vegetarian	I do not have this condition		Normal	"3583"	"1"	rural
+"91"	ERR5327472	United Kingdom		53.5	-2.3	male	65	171	64	21.89	Omnivore but do not eat red meat	I do not have this condition	No	Normal	"162466"	"41"	peri-urban
+"92"	ERR5327475	United Kingdom		54.9	-1.6	female	66	162	50	19.22	Omnivore	I do not have this condition	No	Normal	"33361"	"8"	rural
+"93"	ERR5327479	United Kingdom		52.5	-1.4	male	59	177	85	26.89	Omnivore	I do not have this condition	No	Overweight	"10839"	"3"	rural
+"94"	ERR5327481	United Kingdom		51.5	-0.1	female	36	170	101	34.95	Omnivore	I do not have this condition	I do not eat gluten because it makes me feel bad	Adipose 2	"365888"	"91"	urban
+"95"	ERR5327482	United Kingdom		52.3	-1.9	male	70	177	76	24.11	Omnivore	I do not have this condition	No	Normal	"113146"	"28"	peri-urban
+"96"	ERR5327484	United Kingdom		51.5	-0.1	female	56	162	77	29.14	Omnivore	"Diagnosed by a medical professional (doctor, physician assistant)"	No	Overweight	"365888"	"91"	urban
+"97"	ERR5327485	United Kingdom		51.5	-0.1	male	64	170	63	21.75	Omnivore	I do not have this condition	No	Normal	"365888"	"91"	urban
+"98"	ERR5327487	Germany	NDS	51.6	10	male	29	188	80	22.63	Omnivore		No	Normal	"0"	"0"	rural
+"99"	ERR5327488	Germany														"0"	rural
+"100"	ERR5327489	United Kingdom		51.2	-1.5	male	43	178	73	23.04	Omnivore	I do not have this condition	No	Normal	"147500"	"37"	peri-urban
+"101"	ERR5327492	United Kingdom		51.5	-0.6	female	53	162	69	26.43	Omnivore but do not eat red meat	I do not have this condition		Overweight	"34430"	"9"	rural
+"102"	ERR5327493	United Kingdom		51.5	-0.6	male	46	175	68	22.15	Omnivore	I do not have this condition	No	Normal	"34430"	"9"	rural
+"103"	ERR5327498	United Kingdom		51.5	-0.3	female	50	164	63	23.61	Omnivore	I do not have this condition	I do not eat gluten because it makes me feel bad	Normal	"263838"	"66"	urban
+"104"	ERR5327502	United Kingdom		51.5	0	male	27	177	66	21.09	Omnivore	I do not have this condition	No	Normal	"306374"	"77"	urban
+"105"	ERR5327503	United Kingdom		52	-2.1	female	52	157	53	21.77	Omnivore	I do not have this condition	"I was diagnosed with gluten allergy (anti-gluten IgG), but not celiac disease"	Normal	"145216"	"36"	peri-urban
+"106"	ERR5327506	United Kingdom		52	-2.1	male	55	193	94	25.32	Omnivore			Overweight	"145216"	"36"	peri-urban
+"107"	ERR5327507	United Kingdom				male	31	193	105	28.19	Omnivore	I do not have this condition	No	Overweight		"0"	rural
+"108"	ERR5327509	United Kingdom		50.9	-1.4	male		181	90	27.47	Omnivore	I do not have this condition	No	Overweight	"331702"	"83"	urban
+"109"	ERR5327511	United Kingdom		52.4	-1.9	male	74	180	91	27.98	Omnivore	I do not have this condition	No	Overweight	"61523"	"15"	rural
+"110"	ERR5327513	United Kingdom		51.5	-0.2	male	67	185	81	23.62	Omnivore	I do not have this condition	No	Normal	"380431"	"95"	urban
+"111"	ERR5327515	USA	CA	37.3	-121.9	male	51	177	99	31.57	Omnivore	"Diagnosed by a medical professional (doctor, physician assistant)"	No	Adipose 1	"346849"	"87"	urban
+"112"	ERR5327516	USA	MD	39.3	-77.4	male	57	177	71	22.67	Omnivore	"Diagnosed by a medical professional (doctor, physician assistant)"	No	Normal	"10927"	"3"	rural
+"113"	ERR5327517	USA	MA	42.3	-72.6	male	71	167	92	32.93	Omnivore	I do not have this condition	No	Adipose 1	"3153"	"1"	rural
+"114"	ERR5327521	USA	IL	41.8	-87.6	male	65	167	77	27.44	Omnivore	I do not have this condition	No	Overweight	"372153"	"93"	urban
+"115"	ERR5327523	Australia	VIC	-37.8	145	male	36	183	81	24.19	Omnivore	I do not have this condition	I do not eat gluten because it makes me feel bad	Normal	"161588"	"40"	peri-urban
+"116"	ERR5327529	USA	CA	38	-122.5	other	71	160	50	19.84	Vegetarian but eat seafood	I do not have this condition	I do not eat gluten because it makes me feel bad	Normal	"1191"	"0"	rural
+"117"	ERR5327531	USA	TX	32.7	-97.4	male	43	187	79	22.47	Omnivore	I do not have this condition	No	Normal	"62699"	"16"	rural
+"118"	ERR5327533	USA				female		165	54	19.83	Omnivore		No	Normal		"0"	rural
+"119"	ERR5327534	USA	CA	34.2	-118.4	male	67	182	80	24.15	Omnivore	I do not have this condition	I do not eat gluten because it makes me feel bad	Normal	"290419"	"73"	urban
+"120"	ERR5327535	USA	UT	41.2	-112	female	40	170	68	23.49	Omnivore	"Diagnosed by a medical professional (doctor, physician assistant)"	I do not eat gluten because it makes me feel bad	Normal	"124683"	"31"	peri-urban
+"121"	ERR5327539	USA	TN	36.2	-86.8	male	33	170	76	26.52	Omnivore	I do not have this condition	No	Overweight	"134288"	"34"	peri-urban
+"122"	ERR5327540	USA	TX	30	-99.1	female	64	167	52	18.56	Omnivore	"Diagnosed by a medical professional (doctor, physician assistant)"	I do not eat gluten because it makes me feel bad	Normal	"45409"	"11"	rural
+"123"	ERR5327541	USA	CA	37.4	-122.1	female	31	162	52	19.74	Omnivore	I do not have this condition	"I was diagnosed with gluten allergy (anti-gluten IgG), but not celiac disease"	Normal	"300511"	"75"	urban
+"124"	ERR5327544	USA	OK	35.3	-97.6	female	30	172	213	71.61	Omnivore	I do not have this condition	No		"16089"	"4"	rural
+"125"	ERR5327546	USA	CA	35.5	-118.8	female	63	162	55	20.94	Omnivore	I do not have this condition	No	Normal	"0"	"0"	rural
+"126"	ERR5327550	United Kingdom		53	0	female	68	162	53	20.43	Omnivore but do not eat red meat	I do not have this condition	No	Normal	"12509"	"3"	rural
+"127"	ERR5327554	United Kingdom		51.9	-0.2	male	60	176	73	23.58	Omnivore	I do not have this condition	No	Normal	"204933"	"51"	urban
+"128"	ERR5327555	United Kingdom		50.9	-1	female	69	180	80	24.69	Vegetarian	I do not have this condition	No	Normal	"197554"	"49"	peri-urban
+"129"	ERR5327557	United Kingdom		51	-1.4	female	68	181	82	25.2	Omnivore but do not eat red meat	I do not have this condition	No	Overweight	"51333"	"13"	rural
+"130"	ERR5327561	United Kingdom		51.3	-0.3	female	28	164	75	27.89	Omnivore	I do not have this condition	I do not eat gluten because it makes me feel bad	Overweight	"46279"	"12"	rural
+"131"	ERR5327562	United Kingdom		51.5	-1.1	male	65	182	62	18.54	Omnivore	I do not have this condition	No	Normal	"11044"	"3"	rural
+"132"	ERR5327566	United Kingdom		52.5	-1.3	female	61	162	86	32.61	Omnivore	I do not have this condition	No	Adipose 1	"11909"	"3"	rural
+"133"	ERR5327567	United Kingdom		52.2	-1.8	female	71	160	60	23.56	Omnivore	I do not have this condition	No	Normal	"1401"	"0"	rural
+"134"	ERR5327568	United Kingdom		51.4	-2.8	female	46	160	59	23.39	Omnivore	"Diagnosed by a medical professional (doctor, physician assistant)"	No	Normal	"34914"	"9"	rural
+"135"	ERR5327569	United Kingdom		50.8	-1	male	65	180	88	27.06	Omnivore	"Diagnosed by a medical professional (doctor, physician assistant)"	No	Overweight	"61862"	"15"	rural
+"136"	ERR5327573	United Kingdom		51.1	0	female	55	170	71	24.57	Omnivore	I do not have this condition	I do not eat gluten because it makes me feel bad	Normal	"7055"	"2"	rural
+"137"	ERR5327575	United Kingdom		55.9	-4.9	female	58	154	50	21.16	Omnivore	I do not have this condition	I do not eat gluten because it makes me feel bad	Normal	"9561"	"2"	rural
+"138"	ERR5327576	United Kingdom		51.5	-2.6	female	41	165	78	28.65	Omnivore	I do not have this condition	I do not eat gluten because it makes me feel bad	Overweight	"351179"	"88"	urban
+"139"	ERR5327581	United Kingdom		51.4	-0.1	female	46	165	60	22.13	Omnivore	I do not have this condition	I do not eat gluten because it makes me feel bad	Normal	"386310"	"96"	urban
+"140"	ERR5327584	United Kingdom				male	67	198	112	28.66	Omnivore	I do not have this condition	No	Overweight		"0"	rural
+"141"	ERR5327586	United Kingdom		53.9	-1.6	female	75	157	57	23.05	Vegetarian but eat seafood	I do not have this condition	No	Normal	"20711"	"5"	rural
+"142"	ERR5327587	United Kingdom		51.1	-0.7	male	82	156	90	36.98	Omnivore	I do not have this condition	No	Adipose 2	"8132"	"2"	rural
+"143"	ERR5327591	United Kingdom		53	-1.1	female	67	167	82	29.38	Omnivore	I do not have this condition	No	Overweight	"229350"	"57"	urban
+"144"	ERR5327592	United Kingdom		50.7	-4.3	male	60	172	63	21.29	Omnivore	"Diagnosed by a medical professional (doctor, physician assistant)"	No	Normal	"4875"	"1"	rural
+"145"	ERR5327596	United Kingdom		51.5	-0.2	male	30	185	67	19.58	Omnivore	I do not have this condition	No	Normal	"380431"	"95"	urban
+"146"	ERR5327599	Isle of Man		54.2	-4.7	female	58	172	65	21.97	Omnivore	I do not have this condition	No	Normal	"1586"	"0"	rural
+"147"	ERR5327604	United Kingdom		51.4	-0.4	female	64	157	60	24.19	Omnivore but do not eat red meat	I do not have this condition	No	Normal	"50696"	"13"	rural
+"148"	ERR5327605	United Kingdom		52.8	-1.3	male	80	175	73	23.77	Vegetarian	I do not have this condition	No	Normal	"2313"	"1"	rural
+"149"	ERR5327615	United Kingdom		51.8	-1.3	female	53	176	64	20.66	Omnivore	I do not have this condition	No	Normal	"9648"	"2"	rural
+"150"	ERR5327620	United Kingdom		51.1	-1.3	female	63	165	74	27.18	Vegetarian	I do not have this condition	No	Overweight	"181753"	"45"	peri-urban
